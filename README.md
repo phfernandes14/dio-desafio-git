@@ -14,7 +14,7 @@
 
 ## 💻 Sobre o projeto
 
-📌 Este projeto tem o intuito de colocar em prática conceitos básico de Git (Versionamento de Código) e a criação de um repositório público no Github .
+📌 Este projeto tem o intuito de colocar em prática conceitos básicos de Git (Versionamento de Código) e a criação de um repositório público no Github .
 
 ## 🛠 Tecnologias
 
